@@ -56,8 +56,7 @@
     /* Banner image */
     #banner-image {
 
-        width: 390px;
-        height: 85px;
+        width: 100%;
         object-fit: contain;
         margin: 15px 0px 10px 0px;
 

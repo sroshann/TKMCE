@@ -55,15 +55,14 @@
         #second-container {
 
             background-color: white;
-            position: absolute;
             padding: 15px;
             box-shadow: 0 6px 12px rgba(0, 0, 0, 0.175);
             border-radius: 5px;
             display: grid;
             row-gap: 10px;
             position: absolute;
-            top: 58%;
-            left: 7%;
+            left: 50px;
+            top: 415px;
             z-index: 5;
 
         }
